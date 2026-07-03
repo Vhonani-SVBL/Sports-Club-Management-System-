@@ -2,7 +2,7 @@
 
 ## Overview
 The Tygers Club is a local community-based sports club that provides various sports and training programs to its members. 
-This database project was designed to replace their outdated manual methods—such as paper files and spreadsheets—with a centralized,
+This database project was designed to replace their outdated manual methods such as paper files and spreadsheets with a centralized,
 efficient system to manage members, payments, training sessions, and coach assignments. 
 
 ## Objectives
